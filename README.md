@@ -1,5 +1,7 @@
 # Photon PUN2 Python
 
+> Made by **Pupsik** and **Arcuma Hacks** · 📱 [t.me/ModsGays](https://t.me/ModsGays)
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Photon PUN2](https://img.shields.io/badge/Photon-PUN2-brightgreen)](https://www.photonengine.com/pun)
@@ -156,14 +158,6 @@ MIT License — see [LICENSE](LICENSE)
 ## 🤝 Contributing
 
 Pull requests welcome! Please open an issue first to discuss what you'd like to change.
-
----
-
-## 👥 Authors
-
-Made by **Pupsik** and **Arcuma Hacks**
-
-📱 Telegram: [t.me/ModsGays](https://t.me/ModsGays)
 
 ---
 
