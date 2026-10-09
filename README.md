@@ -28,7 +28,7 @@ A Python implementation of **Photon Unity Networking 2 (PUN2)** — the popular 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Photon-PUN2-Python.git
+git clone https://github.com/huesospidor234-svg/Photon-PUN2-Python.git
 cd Photon-PUN2-Python
 pip install -r requirements.txt
 ```
