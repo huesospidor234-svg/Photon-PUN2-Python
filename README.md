@@ -159,6 +159,14 @@ Pull requests welcome! Please open an issue first to discuss what you'd like to 
 
 ---
 
+## 👥 Authors
+
+Made by **Pupsik** and **Arcuma Hacks**
+
+📱 Telegram: [t.me/ModsGays](https://t.me/ModsGays)
+
+---
+
 ## 🔗 Related
 
 - [Photon Engine](https://www.photonengine.com/)
